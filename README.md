@@ -1,6 +1,6 @@
 Pre-requisites:-
 Install Visual Studio
-Open asos solution into the visual studio 
+git clone "<gitlink>" and Open asos solution into the visual studio 
 Install "Selenium webdriver", "specflow" and "NUGet" packages
 Download "GeckoDriver" and place it in the project bin/debug folder
 
