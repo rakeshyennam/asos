@@ -1,0 +1,12 @@
+C:\Users\raky\asos\asos\bin\Debug\asos.dll.config
+C:\Users\raky\asos\asos\bin\Debug\asos.dll
+C:\Users\raky\asos\asos\bin\Debug\asos.pdb
+C:\Users\raky\asos\asos\bin\Debug\nunit.framework.dll
+C:\Users\raky\asos\asos\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\raky\asos\asos\bin\Debug\WebDriver.dll
+C:\Users\raky\asos\asos\bin\Debug\WebDriver.Support.dll
+C:\Users\raky\asos\asos\bin\Debug\nunit.framework.xml
+C:\Users\raky\asos\asos\bin\Debug\WebDriver.xml
+C:\Users\raky\asos\asos\bin\Debug\WebDriver.Support.xml
+C:\Users\raky\asos\asos\obj\Debug\asos.dll
+C:\Users\raky\asos\asos\obj\Debug\asos.pdb
